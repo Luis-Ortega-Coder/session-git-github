@@ -24,7 +24,8 @@ while True:
     PrecioDelProducto = input("Ingresa El Precio Del Producto: ")
     CantidadDeProdustos = input("Ingresa La Cantidad De Productos Que Tiene Tu Stock: ")
 
-
+    
+print("hola")
             
     
     
